@@ -1,0 +1,5 @@
+Credentials cache: API:25BB61B0-2972-4D5A-986D-1CD5913F9A96
+        Principal: vmeter@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul  6 20:13:41 2021  Jul  7 06:13:34 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
